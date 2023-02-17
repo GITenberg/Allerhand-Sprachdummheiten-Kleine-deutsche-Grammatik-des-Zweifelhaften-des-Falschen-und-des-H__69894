@@ -1,0 +1,29 @@
+_repo: Allerhand-Sprachdummheiten-Kleine-deutsche-Grammatik-des-Zweifelhaften-des-Falschen-und-des-H__69894
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wustmann, Gustav
+    gutenberg_agent_id: '55480'
+    url: http://www.gutenberg.org/2009/agents/55480
+  editor:
+    agent_name: Wustmann, Rudolf
+    gutenberg_agent_id: '55481'
+    url: http://www.gutenberg.org/2009/agents/55481
+description: ''
+gutenberg_issued: '2023-01-28'
+identifiers:
+  gutenberg: '69894'
+language: de
+pgterms:marc905: 20170416015849wustmann
+pgterms:marc906: '1912'
+pgterms:marc907: de
+production_note: the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: 'Germany: Verlag von Karl J. Trübner,1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Allerhand Sprachdummheiten: Kleine deutsche Grammatik des Zweifelhaften, des
+  Falschen und des Häßlichen'
+url: http://www.gutenberg.org/ebooks/69894
